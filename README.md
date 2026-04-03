@@ -1,4 +1,4 @@
-<img width="2131" height="1024" alt="image" src="https://github.com/user-attachments/assets/d79ad3ef-765d-4300-ba69-64318ff69226" /><h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
   🚀 B.Tech Student | Java | DSA | Full Stack
@@ -16,6 +16,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudhanshuchauhan29&theme=radical" />
 </p>
+<h3 align="center">🐍 Contribution Snake</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sudhanshuchauhan29/sudhanshuchauhan29/output/github-contribution-grid-snake.svg" />
 </p>
