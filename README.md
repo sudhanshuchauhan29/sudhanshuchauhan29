@@ -16,21 +16,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudhanshuchauhan29&theme=radical" />
 </p>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sudhanshuchauhan29
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Sudhanshu%20Chauhan&fontSize=40&fontColor=ffffff"/>     
 <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Java+Developer;Full+Stack+Learner;DSA+Enthusiast" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuchauhan29&theme=react-dark" />
+
