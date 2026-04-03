@@ -31,5 +31,6 @@ jobs:
           github_user_name: sudhanshuchauhan29
           outputs: |
             dist/github-contribution-grid-snake.svg
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Java+Developer;Full+Stack+Learner;DSA+Enthusiast" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuchauhan29&theme=react-dark" />
