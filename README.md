@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<img width="2131" height="1024" alt="image" src="https://github.com/user-attachments/assets/d79ad3ef-765d-4300-ba69-64318ff69226" /><h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
   🚀 B.Tech Student | Java | DSA | Full Stack
@@ -16,7 +16,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudhanshuchauhan29&theme=radical" />
 </p>
-![Snake animation](https://raw.githubusercontent.com/sudhanshuchauhan29/sudhanshuchauhan29/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudhanshuchauhan29/sudhanshuchauhan29/output/github-contribution-grid-snake.svg" />
+</p>
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Sudhanshu%20Chauhan&fontSize=40&fontColor=ffffff"/>      -->
 <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Java+Developer;Full+Stack+Learner;DSA+Enthusiast" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuchauhan29&theme=react-dark" />
