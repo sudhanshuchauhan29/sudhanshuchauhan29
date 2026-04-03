@@ -1,8 +1,6 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # daily run
   workflow_dispatch:
 
 jobs:
@@ -12,6 +10,13 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: sudhanshuchauhan29   # 👈 yaha apna username daal
+          github_user_name: sudhanshuchauhan29
           outputs: |
             dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
