@@ -1,0 +1,17 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily run
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sudhanshuchauhan29   # 👈 yaha apna username daal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
